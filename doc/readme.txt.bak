@@ -1,7 +1,6 @@
 add branch dev
 
-<<<<<<< HEAD
+HEAD:
 Creating a new branch is quick & simple
-=======
+dev:
 Creating a new branch is quick AND simple.
->>>>>>> dev
