@@ -6,3 +6,9 @@ dev:
 Creating a new branch is quick AND simple.
 
 reset
+
+<<<<<<< HEAD
+L440
+=======
+t410
+>>>>>>> a5d3fe1dc9da10b65f5809098ef427362138bea1
