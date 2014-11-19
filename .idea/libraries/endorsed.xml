@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="endorsed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webServiceTestAxis2/lib/endorsed/geronimo-saaj_1.3_spec-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webServiceTestAxis2/lib/endorsed/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webServiceTestAxis2/lib/endorsed/geronimo-jaxws_2.2_spec-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
